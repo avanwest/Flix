@@ -40,7 +40,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Main issue while building app was working with constraints on objects when formating the app. 
 
 ## License
 
