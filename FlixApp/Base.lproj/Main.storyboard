@@ -61,7 +61,7 @@
                                                                 <constraint firstAttribute="height" constant="108" id="Zmz-uC-Zye"/>
                                                             </constraints>
                                                             <string key="text">"Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala."</string>
-                                                            <fontDescription key="fontDescription" type="system" weight="thin" pointSize="16"/>
+                                                            <fontDescription key="fontDescription" type="system" weight="thin" pointSize="15"/>
                                                             <nil key="textColor"/>
                                                             <nil key="highlightedColor"/>
                                                         </label>
@@ -105,7 +105,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="23.199999999999999" y="-31.934032983508249"/>
+            <point key="canvasLocation" x="252" y="-48"/>
         </scene>
     </scenes>
 </document>
