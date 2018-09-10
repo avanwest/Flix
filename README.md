@@ -1,7 +1,7 @@
 
 # *Flix*
 
-**Flix** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+**Flix** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#). The app shows currently playing films in movie theaters. 
 
 Time spent: **7** hours spent in total
 
