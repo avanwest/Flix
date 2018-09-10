@@ -34,9 +34,9 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 ## Video Walkthrough
 
-![](flixApp_homeScreen.png)
+![](Images/flixApp_homeScreen.png)
 
-![](Flix_movieScreen.gif)
+![](Images/Flix_movieScreen.gif)
 
 ## Notes
 
