@@ -1,18 +1,18 @@
 
-# Project 1 - *FlixApp*
+# *Flix*
 
-**Name of your app** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+**Flix** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#). The app shows currently playing films in movie theaters. 
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
 The following **required** user stories are complete:
 
-- [ ] User sees app icon in home screen and styled launch screen (+1pt)
-- [ ] User can scroll through a list of movies currently playing in theaters from The Movie DB API (+5pt)
-- [ ] User can "Pull to refresh" the movie list (+2pt)
-- [ ] User sees a loading state while waiting for the movies to load (+2pt)
+- [x] User sees app icon in home screen and styled launch screen (+1pt)
+- [x] User can scroll through a list of movies currently playing in theaters from The Movie DB API (+5pt)
+- [x] User can "Pull to refresh" the movie list (+2pt)
+- [x] User sees a loading state while waiting for the movies to load (+2pt)
 
 The following **stretch** user stories are implemented:
 
@@ -34,19 +34,17 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+![](Images/flixApp_homeScreen.png)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![](Images/Flix_movieScreen.gif)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Main issue while building app was working with constraints on objects when formating the app. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Adam vanWestrienen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
