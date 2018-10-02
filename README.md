@@ -78,19 +78,19 @@ Main issue while building app was working with constraints on objects when forma
     
 
     
-    # Lab 3 - *Name of App Here*
+    # Lab 3 - *Flix*
     
-    **Name of your app** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+    **Flix** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
     
-    Time spent: **X** hours spent in total
+    Time spent: **6** hours spent in total
     
     ## User Stories
     
     The following **required** user stories are complete:
     
     - The following screens use AutoLayout to adapt to various orientations and screen sizes
-    - [ ] Movie feed view (+3pt)
-    - [ ] Detail view (+2pt)
+    - [x] Movie feed view (+3pt)
+    - [x] Detail view (+2pt)
     
     The following **stretch** user stories are implemented:
     
@@ -108,11 +108,7 @@ Main issue while building app was working with constraints on objects when forma
     
     ## Video Walkthrough
     
-    Here's a walkthrough of implemented user stories:
-    
-    <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-    
-    GIF created with [LiceCap](http://www.cockos.com/licecap/).
+ ![](Images/Flix_userscreen_autoAdjust.gif)
     
     ## Notes
     
@@ -120,7 +116,7 @@ Main issue while building app was working with constraints on objects when forma
     
     ## License
     
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Adam vanWestrienen]
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
