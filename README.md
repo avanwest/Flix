@@ -5,8 +5,6 @@
 
 ## Video Walkthrough
 
-![](Images/flixApp_homeScreen.png)
-
 ![](Images/Flix_movieScreen.gif)
 
 ![](Images/Flix_Part2_UserScreen.gif)
