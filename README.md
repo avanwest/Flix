@@ -5,8 +5,6 @@
 
 ![](Images/Flix_Part2_UserScreen.gif)
       
-![](Images/Flix_userscreen_autoAdjust.gif)
-
     
     Copyright [2018] [Adam vanWestrienen]
     
