@@ -3,10 +3,6 @@
 
 **Flix** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#). The app shows currently playing films in movie theaters. 
 
-## Video Walkthrough
-
-![](Images/Flix_movieScreen.gif)
-
 ![](Images/Flix_Part2_UserScreen.gif)
       
 ![](Images/Flix_userscreen_autoAdjust.gif)
